@@ -7,3 +7,4 @@
 * Assignment4 : Implemented inheritance features of the class, filter and some basic list feature of the python.
 * Assignment5 : Implemented try except block to catch exception.
 * data_cleaning_pandas : Practiced pandas concept like insert, drop, pop, Datafrmae creation etc.
+* numpy_assignments: Practiced numpy concept to create vandore matrix and convolve, cumsum etc.
