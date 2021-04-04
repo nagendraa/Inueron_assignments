@@ -8,3 +8,5 @@
 * Assignment5 : Implemented try except block to catch exception.
 * data_cleaning_pandas : Practiced pandas concept like insert, drop, pop, Datafrmae creation etc.
 * numpy_assignments: Practiced numpy concept to create vandore matrix and convolve, cumsum etc.
+* datavisualization : Practiced visualization of the data using matplotlib and plotted 3D graphs by applying PCA on iris dataset.
+* Assignments on matplotlib: Practiced visualization using matplotlib on titanic dataset plotted PI chart and also used periodic function on temperature data and plot the graph for that.
